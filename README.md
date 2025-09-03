@@ -20,7 +20,7 @@ A real-time collaborative code editor featuring live code compilation and integr
 
 # Tech Stack
 
-1)Frontend: React.js, Socket.IO, CodeMirror
+1)Frontend: React.js, Socket.IO
 
 2)Backend: Node.js, Express.js
 
